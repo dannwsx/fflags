@@ -28,13 +28,13 @@
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
 
  # List Navigation
-* **[Rendering](ithub.com/dannwsx/fflags/#rendering)**
-* **[Graphical](https://rentry.org/uffl/#graphical-settings)**
-* **[UI](https://rentry.org/uffl/#user-interface)**
+* **[Rendering](https://github.com/dannwsx/fflags/blob/main/README.md#rendering)**
+* **[Graphical](https://github.com/dannwsx/fflags/blob/main/README.md#graphical-settings)**
+* **[UI](https://github.com/dannwsx/fflags/blob/main/README.md#user-interface)**
 * **[Textures](https://github.com/FastFlags/FastFlags-Collective/tree/textures)**
-* **[Physics](https://rentry.org/uffl/#physics)**
-* **[Other FFlags](https://rentry.org/uffl/#other-fflags)**
-* **[Links](https://rentry.org/uffl/#links)**
+* **[Physics](https://github.com/dannwsx/fflags/blob/main/README.md#physics)**
+* **[Other FFlags](https://github.com/dannwsx/fflags/blob/main/README.md#other-fflags)**
+* **[Links](https://github.com/dannwsx/fflags/blob/main/README.md#links)**
 
 ### -> ══════⊹⊱≼≽⊰⊹══════ <-
 
@@ -959,14 +959,10 @@ High
 
 ###### -> ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨ <-
 
-# List Information
-* Creation Date: 9:46 PM 08/25/2023 
-* Rentry Publish Date: 12/09/2023
 
-[.](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN)
 
-##### -> FastFlags 2024®eal <-
+##### -> FastFlags 2024® <-
 
--> [FVariables.txt](https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt) <-
+-> [Variables.txt](https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt) <-
 
 -> [Roblox FFlag Tracker](https://github.com/MaximumADHD/Roblox-FFlag-Tracker) <-
