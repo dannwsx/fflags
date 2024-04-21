@@ -6,7 +6,7 @@
 ##### ->  [T&C](https://github.com/dannwsx/fflags/blob/main/TNC.md) <-
 
 ##### Version: 9.0.5+ [4/20/2024]
-* **124 Currently Listed**
+* **126 Currently Listed**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -584,6 +584,11 @@ High
 		"DFIntHipHeightClamp": "-48"
 }
 ```
+### Hip Height V2
+```json
+{
+		"DFIntMaxAltitudePDHipHeightPercent": "-250"
+}
 ### Random High Jumps
 ###### https://youtu.be/2JkA4hWCAWw
 ```json
