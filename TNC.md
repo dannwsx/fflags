@@ -31,4 +31,4 @@
 * We do not endorse the use of this information for activities that break Roblox's [Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use) or any other applical legal documents.
 * We do not condone the use of this information for unfair purposes, such as gaining an advantage over others.
 
-->[Take me back](https://github.com/dannwsx/fflags)<-
+->[Take me back](https://dannwsx.github.io/fflags/)<-
