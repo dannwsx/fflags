@@ -1,7 +1,7 @@
 #  ![Bloxstrap](https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png)
 # Ultimate FastFlags List
 
-### ->  https://discord.gg/fastflags  <-
+### ->  [https://discord.gg/fastflags](https://discord.gg/fastflags)  <-
 
 ## ->Legal Disclaimer<-
 
