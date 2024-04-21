@@ -7,7 +7,7 @@
 
 ->This list exists purely for the purposes of learning more about the inner workings of our favourite games. We do not endorse the use of this information for activities that break Roblox's [Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use) or any other applical legal documents. We also do not condone the use of this information for unfair purposes, such as gaining an advantage over others.<-
 
-->By continuing to read this document, you agree that you have read and agree with this rentry's [Terms and Conditions](https://github.com/dannwsx/fflags/blob/main/TNC.md#rentry-terms-and-conditions). If you do not agree, stop reading this document now.<-
+->By continuing to read this document, you agree that you have read and agree with this github's [Terms and Conditions](https://github.com/dannwsx/fflags/blob/main/TNC.md#rentry-terms-and-conditions). If you do not agree, stop reading this document now.<-
 
 ## ->Safety Warning<-
 
