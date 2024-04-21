@@ -19,9 +19,9 @@
 >
 > &nbsp;&nbsp;-&nbsp;&nbsp; [Bloxstrap FastFlag Documentation](https://github.com/pizzaboxer/bloxstrap/wiki/A-guide-to-FastFlags)
 
-->As stated in this rentry's [Terms and Conditions](https://github.com/dannwsx/fflags/blob/main/TNC.md#github-terms-and-conditions), by using the information in this rentry you relieve it's creator(s) of any liability caused by your use, including legal and financial liability.<-
+->As stated in this github's [Terms and Conditions](https://github.com/dannwsx/fflags/blob/main/TNC.md#github-terms-and-conditions), by using the information in this github you relieve it's creator(s) of any liability caused by your use, including legal and financial liability.<-
 
--> By accessing this rentry, you agree that you have read and agree with this rentry's  [Terms and Conditions](https://github.com/dannwsx/fflags/blob/main/TNC.md#github-terms-and-conditions). If you do not agree, cease accessing this rentry immediately. <-
+-> By accessing this github, you agree that you have read and agree with this github's  [Terms and Conditions](https://github.com/dannwsx/fflags/blob/main/TNC.md#github-terms-and-conditions). If you do not agree, cease accessing this github immediately. <-
 
 # Github Terms and Conditions
 
