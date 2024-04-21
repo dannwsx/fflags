@@ -1,8 +1,9 @@
- ![Bloxstrap](https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png) Ultimate FastFlags List 
+ ![Bloxstrap](https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png)
+ # Ultimate FastFlags List 
 
 ### -> https://discord.gg/fastflags <-
 
-##### ->  [T&C](https://rentry.org/uffl-rentry-terms-and-conditions) <-
+##### ->  [T&C](https://github.com/dannwsx/fflags/blob/main/TNC.md) <-
 
 ##### Version: 9.0.5+ [4/20/2024]
 * **124 Currently Listed**
