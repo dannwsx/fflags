@@ -28,10 +28,9 @@
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
 
  # List Navigation
-* **[Rendering](https://github.com/dannwsx/fflags/blob/main/README.md#rendering)**
-* **[Graphical](https://github.com/dannwsx/fflags/blob/main/README.md#graphical-settings)**
+* **[Rendering](https://github.com/dannwsx/fflags/blob/main/README.md#lightning-technologies)**
+* **[Graphical](https://github.com/dannwsx/fflags/blob/main/README.md#graphical-settings--more)**
 * **[UI](https://github.com/dannwsx/fflags/blob/main/README.md#user-interface)**
-* **[Textures](https://github.com/FastFlags/FastFlags-Collective/tree/textures)**
 * **[Physics](https://github.com/dannwsx/fflags/blob/main/README.md#physics)**
 * **[Other FFlags](https://github.com/dannwsx/fflags/blob/main/README.md#other-fflags)**
 * **[Links](https://github.com/dannwsx/fflags/blob/main/README.md#links)**
@@ -952,8 +951,7 @@ High
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
 ### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
-### ~~RCOOL~~ We couldn't save this one.
-### [Roblox Channel Checker](https://cdn.discordapp.com/attachments/1225631712285823059/1228285379518529567/rct_source.7z?ex=662b7ce6&is=661907e6&hm=32091b6b6c30a4d700303d6b1ae79cae8db0dedb80682e627cd7cca03aaa25c9&) *[Download Link]*
+[Download Link]*
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
 
