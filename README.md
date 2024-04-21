@@ -2,7 +2,7 @@
  
 ## [Ultimate FastFlags List](https://dannwsx.github.io/fflags/) 
 
-### -> https://discord.gg/fastflags <-
+### -> [https://discord.gg/fastflags](https://discord.gg/fastflags) <-
 
 ##### ->  [T&C](https://github.com/dannwsx/fflags/blob/main/TNC.md) <-
 
