@@ -5,7 +5,6 @@
 
 ##### ->  [T&C](https://github.com/dannwsx/fflags/blob/main/TNC.md) <-
 
-##### Version: 9.0.5+ [4/20/2024]
 * **126 Currently Listed**
 
 ## Bloxstrap How to Use:
