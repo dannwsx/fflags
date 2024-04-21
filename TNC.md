@@ -1,4 +1,5 @@
-#  ![Bloxstrap](https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png)Ultimate FastFlags List
+#  ![Bloxstrap](https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png)
+### Ultimate FastFlags List
 
 ### ->  https://discord.gg/fastflags  <-
 
@@ -6,7 +7,7 @@
 
 ->This list exists purely for the purposes of learning more about the inner workings of our favourite games. We do not endorse the use of this information for activities that break Roblox's [Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use) or any other applical legal documents. We also do not condone the use of this information for unfair purposes, such as gaining an advantage over others.<-
 
-->By continuing to read this document, you agree that you have read and agree with this rentry's [Terms and Conditions](https://rentry.org/uffl-rentry-terms-and-conditions/#rentry-terms-and-conditions). If you do not agree, stop reading this document now.<-
+->By continuing to read this document, you agree that you have read and agree with this rentry's [Terms and Conditions](https://github.com/dannwsx/fflags/blob/main/TNC.md#rentry-terms-and-conditions). If you do not agree, stop reading this document now.<-
 
 ## ->Safety Warning<-
 
@@ -18,13 +19,13 @@
 >
 > &nbsp;&nbsp;-&nbsp;&nbsp; [Bloxstrap FastFlag Documentation](https://github.com/pizzaboxer/bloxstrap/wiki/A-guide-to-FastFlags)
 
-->As stated in this rentry's [Terms and Conditions](https://rentry.org/uffl-rentry-terms-and-conditions/#rentry-terms-and-conditions), by using the information in this rentry you relieve it's creator(s) of any liability caused by your use, including legal and financial liability.<-
+->As stated in this rentry's [Terms and Conditions](https://github.com/dannwsx/fflags/blob/main/TNC.md#rentry-terms-and-conditions), by using the information in this rentry you relieve it's creator(s) of any liability caused by your use, including legal and financial liability.<-
 
--> By accessing this rentry, you agree that you have read and agree with this rentry's  [Terms and Conditions](https://rentry.org/uffl-rentry-terms-and-conditions/#rentry-terms-and-conditions). If you do not agree, cease accessing this rentry immediately. <-
+-> By accessing this rentry, you agree that you have read and agree with this rentry's  [Terms and Conditions](https://github.com/dannwsx/fflags/blob/main/TNC.md#rentry-terms-and-conditions). If you do not agree, cease accessing this rentry immediately. <-
 
-# Rentry Terms and Conditions
+# Github Terms and Conditions
 
-## ->Rentry Intent<-
+## ->Github Intent<-
 
 * This list exists purely for the purposes of learning more about the inner workings of our favourite games.
 * We do not endorse the use of this information for activities that break Roblox's [Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use) or any other applical legal documents.
