@@ -27,13 +27,13 @@
 
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
 
- # List Navigation
-* **[Rendering](https://github.com/dannwsx/fflags/blob/main/README.md#lightning-technologies)**
-* **[Graphical](https://github.com/dannwsx/fflags/blob/main/README.md#graphical-settings--more)**
-* **[UI](https://github.com/dannwsx/fflags/blob/main/README.md#user-interface)**
-* **[Physics](https://github.com/dannwsx/fflags/blob/main/README.md#physics)**
-* **[Other FFlags](https://github.com/dannwsx/fflags/blob/main/README.md#other-fflags)**
-* **[Links](https://github.com/dannwsx/fflags/blob/main/README.md#links)**
+# List Navigation
+* **[Rendering](https://dannwsx.github.io/fflags/#lightning-technologies)**
+* **[Graphical](https://dannwsx.github.io/fflags/#graphical-settings--more)**
+* **[UI](https://dannwsx.github.io/fflags/#user-interface)**
+* **[Physics](https://dannwsx.github.io/fflags/#physics)**
+* **[Other FFlags](https://dannwsx.github.io/fflags/#other-fflags)**
+* **[Links](https://dannwsx.github.io/fflags/#links)**
 
 ### -> ══════⊹⊱≼≽⊰⊹══════ <-
 
