@@ -1,6 +1,6 @@
  ![Bloxstrap](https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png) Ultimate FastFlags List 
 
-### -> %#7289da% https://discord.gg/YreqZ7aYmg %% <-
+### -> https://discord.gg/fastflags <-
 
 ##### ->  [T&C](https://rentry.org/uffl-rentry-terms-and-conditions) <-
 
