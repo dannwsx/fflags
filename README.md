@@ -329,6 +329,16 @@ High
 		"DFFlagDebugEnableInterpolationVisualizer": "True"
 }
 ```
+### "XRAY"
+##### Instructions: You may change the values to change the distance.
+```json
+{
+  "DFIntCullFactorPixelThresholdMainViewHighQuality": "1250",
+  "DFIntCullFactorPixelThresholdMainViewLowQuality": "1250",
+  "DFIntCullFactorPixelThresholdShadowMapHighQuality": "1250",
+  "DFIntCullFactorPixelThresholdShadowMapLowQuality": "1250"
+}
+```
 ### Humanoid Outline
 ##### Draws an outline around every part and every humanoid
 ```json
@@ -589,6 +599,7 @@ High
 {
 		"DFIntMaxAltitudePDHipHeightPercent": "-250"
 }
+```
 ### Random High Jumps
 ###### https://youtu.be/2JkA4hWCAWw
 ```json
